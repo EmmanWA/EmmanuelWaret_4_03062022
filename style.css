@@ -716,6 +716,20 @@ h3 {
     color: #333333!important;
 }
 
+.bloc-p-def {
+    font-size: 18px;
+}
+
+.title {
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+.title-fw {
+    border-bottom: 2px solid #333333!important;
+}
+
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
